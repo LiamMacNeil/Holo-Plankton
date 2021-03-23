@@ -30,7 +30,7 @@ Beginning alphabetically, this will show the large-scale taxonomic (Phylum) reso
 
 ## Ochrophyta
 
-![Ochrophyta](/Images/Ochrophyta.png){:height="100%" width="75%"}
+(![Ochrophyta](/Images/Ochrophyta.png){:height="100%" width="75%"})
 
 
 
