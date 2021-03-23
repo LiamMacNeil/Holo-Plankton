@@ -5,11 +5,11 @@ Beginning alphabetically, this will show the large-scale taxonomic (Phylum) reso
 
 ## Arthropoda
 
-![Arthropoda](/https://github.com/LiamMacNeil/Holo-Plankton/blob/main/Images/Arthropods.png)
+![Arthropoda](/Images/Arthropods.png)
 
 ## Ciliophora
 
-![Ciliophora](/https://github.com/LiamMacNeil/Holo-Plankton/blob/main/Images/Ciliophora.png)
+![Ciliophora](/Images/Ciliophora.png)
 
 ## Diatomea
 
@@ -18,14 +18,14 @@ Beginning alphabetically, this will show the large-scale taxonomic (Phylum) reso
 
 ## Dinoflagellata
 
-![Dinoflagellata](/https://github.com/LiamMacNeil/Holo-Plankton/blob/main/Images/Dinoflagellata.png)
+![Dinoflagellata](/Images/Dinoflagellata.png)
 
 
 ## Labyrinthulomycetes, marine snow and particulates
 
-![Labyrinthulomycetes](/https://github.com/LiamMacNeil/Holo-Plankton/blob/main/Images/LabySnow.png)
+![Labyrinthulomycetes](/Images/LabySnow.png)
 
 
 ## Ochrophyta
 
-![Ochrophyta](/https://github.com/LiamMacNeil/Holo-Plankton/blob/main/Images/Ochrophyta.png)
+![Ochrophyta](/Images/Ochrophyta.png)
