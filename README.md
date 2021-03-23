@@ -7,8 +7,8 @@ Beginning alphabetically, this will show the large-scale taxonomic (Phylum) reso
 
 ## Arthropoda
 
-[Arthropoda](https://github.com/LiamMacNeil/Holo-Plankton/blob/main/Images/Arthropods.png)
+![Arthropoda](https://github.com/LiamMacNeil/Holo-Plankton/blob/main/Images/Arthropods.png)
 
 ## Ciliophora
 
-[Ciliophora](https://github.com/LiamMacNeil/Holo-Plankton/blob/main/Images/Ciliophora.png)
+![Ciliophora](https://github.com/LiamMacNeil/Holo-Plankton/blob/main/Images/Ciliophora.png)
