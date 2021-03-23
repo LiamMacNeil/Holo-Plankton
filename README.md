@@ -29,7 +29,6 @@ Beginning alphabetically, this will show the large-scale taxonomic (Phylum) reso
 
 ## Ochrophyta
 
-
 <img src="https://github.com/LiamMacNeil/Holo-Plankton/blob/main/Images/Ochrophyta.png" width="1000" height="500">
 
 
