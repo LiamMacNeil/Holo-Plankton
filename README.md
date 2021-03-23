@@ -13,7 +13,7 @@ Beginning alphabetically, this will show the large-scale taxonomic (Phylum) reso
 
 ## Diatomea
 
-![Diatomea](/https://github.com/LiamMacNeil/Holo-Plankton/blob/main/Images/Diatomea.png)
+![Diatomea](/Images/Diatomea.png)
 
 
 ## Dinoflagellata
