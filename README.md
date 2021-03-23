@@ -5,7 +5,7 @@ Beginning alphabetically, this will show the large-scale taxonomic (Phylum) reso
 
 ## Arthropoda
 
-![Arthropoda](/Images/Arthropods.png)
+![Arthropoda](/Images/Arthropoda.png)
 
 ## Ciliophora
 
