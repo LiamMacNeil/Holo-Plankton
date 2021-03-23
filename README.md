@@ -3,20 +3,20 @@ Micro-mesoplankton groups imaged on the Newfoundland Shelf (Nov-Dec, 2019) aboar
   
 Beginning alphabetically, this will show the large-scale taxonomic (Phylum) resolution for major groups including lower level identification where possible. All names listed are shown left to right. 
 
-## Arthropoda
+## *Arthropoda*
 
 ![Arthropoda](/Images/Arthropoda.png)
 
 
 Copepods and a nauplii (first-stage larval copepod).
 
-## Ciliophora
+## *Ciliophora*
 
 ![Ciliophora](/Images/Ciliophora.png)
 
 *Salpingella* spp. (Image 1, 3-5), *Dictyocysta* spp., *Condonella* spp., *Choreotrichia* spp.  
 
-## Diatomea
+## *Diatomea*
 
 ![Diatomea](/Images/Diatomea.png)
 
@@ -28,13 +28,13 @@ Copepods and a nauplii (first-stage larval copepod).
 
 *Tripos fusus* (Image 1-2), *Tripos* spp. (Image 3, 5-6), *Thalassionema* spp., *Prorocentrum* spp., *Gyrodinium* spp. (Image 7-8).
 
-## Labyrinthulomycetes, marine snow and particulates
+## *Labyrinthulomycetes*, marine snow and particulates
 
 ![Labyrinthulomycetes](/Images/LabySnow.png)
 
 *Labyrinthulomycetes* (Image 1-2), marine snow and particulates
 
-## Ochrophyta
+## *Ochrophyta*
 
 ![Ochrophyta](/Images/Ochrophyta.png)
 
