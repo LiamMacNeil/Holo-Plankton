@@ -21,7 +21,7 @@ Beginning alphabetically, this will show the large-scale taxonomic (Phylum) reso
 ![Dinoflagellata](https://github.com/LiamMacNeil/Holo-Plankton/blob/main/Images/Dinoflagellata.png)
 
 
-## Labyrinthulomycetes, Marine snow and particulates
+## Labyrinthulomycetes, marine snow and particulates
 
 ![Labyrinthulomycetes](https://github.com/LiamMacNeil/Holo-Plankton/blob/main/Images/LabySnow.png)
 
