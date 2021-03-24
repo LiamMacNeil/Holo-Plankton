@@ -20,7 +20,7 @@ Copepods and a nauplii (first-stage larval copepod).
 
 ![Diatomea](/Images/Diatomea.png)
 
-*Chaetoceros* spp. (Image 1-3), *Thalassionema* spp., *Pseudo-nitchzia* spp., *Proboscia* spp., Unidentified pennate.
+*Chaetoceros* spp. (Image 1-3), *Thalassionema* spp., *Pseudo-nitchzia* spp., *Proboscia* spp., Nitzschia spp.
 
 ## Dinoflagellata
 
